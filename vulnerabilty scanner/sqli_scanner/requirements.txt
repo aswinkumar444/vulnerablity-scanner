@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+Requests
+BeautifulSoup4
+ReportLab
+pandas

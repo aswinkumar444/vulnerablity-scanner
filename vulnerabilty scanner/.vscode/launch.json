@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\reportpage.dart)",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "vulscanner",
+            "program": "lib\\reportpage.dart"
+        },
+        {
+            "name": "Flutter (lib\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "vulscanner",
+            "program": "lib\\main.dart"
+        }
+    ]
+}
